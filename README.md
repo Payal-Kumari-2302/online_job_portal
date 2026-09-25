@@ -42,6 +42,11 @@ The project also includes an **Admin Panel** for managing jobs and monitoring us
 | 💻 VS Code | Development Environment |
 
 ---
+🚀 Live Demo  
+[Online Job Portal](https://github.com/Payal-Kumari-2302/online_job_portal)
+
+## 📂 GitHub Repository  
+🔗 [GitHub Repo](https://github.com/Payal-Kumari-2302/online_job_portal)
 
 ## 📂 Project Structure
 
